@@ -9,7 +9,7 @@
 
 ## 电子书
 
-![电子书](https://upload-images.jianshu.io/upload_images/5690299-35d35e6f383a0a12.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![电子书](https://upload-images.jianshu.io/upload_images/5690299-fbef38d8cf5c32ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 思路
 
